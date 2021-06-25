@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vj-Ydv
+- 👋 Hi, I’m Vijay Yadav
 - 👀 I’m interested in Web development, database development and data science
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on Machine learning related projects
